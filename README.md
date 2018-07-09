@@ -4,7 +4,11 @@
 
 <sub>Just type <a href="http://bit.do/dev-memes">bit.do/dev-memes</a> to go here. Check out my <a href="https://pamepeixinho.github.io">site</a> and follow me on <a href="https://twitter.com/pamepeixinho">Twitter</a>.</sub>
 
-![nerdy words](images/nerdy-words.jpg)
+<div align="center">
+  <div>
+    <img width="400" src="images/nerdy-words.jpg" alt="nerdy words">
+  </div>
+</div>
 
 ## Contents
 
